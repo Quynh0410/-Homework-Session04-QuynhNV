@@ -1,0 +1,11 @@
+#h1, h2, h3 {
+    font-family: sans-serif;
+}
+#h1{
+    color:blue
+}
+.in{
+    background-color: beige;
+    border-left: 10px solid #e9e614;
+    padding-left: 10px; 
+}

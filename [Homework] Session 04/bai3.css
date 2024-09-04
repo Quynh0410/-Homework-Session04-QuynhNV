@@ -1,0 +1,23 @@
+#img{
+    max-width:100%;
+    height:auto
+}
+#body{
+    font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f8f7;
+}   
+#nav{
+    padding: 10px;
+    background-color: #e7e1e1;
+    color: white;
+}
+.u{
+    text-transform:uppercase
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+}
